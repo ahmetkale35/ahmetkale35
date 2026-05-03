@@ -63,8 +63,8 @@
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetkale35&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkale35&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=6" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmetkale35&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmetkale35&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
