@@ -7,7 +7,7 @@
 
   ### 🚀 Üzerinde Çalıştığım Proje
 
-  **EvArkadasimV2** — Ev arkadaşı eşleştirme uygulaması. Tinder benzeri, konut odaklı. Clean Architecture + JWT auth + real-time chat.
+  **EvArkadasim** — Ev arkadaşı eşleştirme uygulaması. Tinder benzeri, konut odaklı. Clean Architecture + JWT auth + real-time chat.
 
   ---
 
