@@ -10,7 +10,7 @@
   🏢 Interning at <strong>Baylan</strong> — Smart Water & Electricity Meters<br/>
   🌱 Expanding my skills in <strong>IoT</strong><br/>
   💡 Passionate about <strong>Backend Development</strong> & <strong>Clean Architecture</strong><br/>
-  🚀 Currently building <strong>EvArkadasimV2</strong> — a roommate matching platform<br/>
+  🚀 Currently building <strong>EvArkadasim</strong> — a roommate matching platform<br/>
   📫 ahmetkale1248.ak@gmail.com
 </p>
 
