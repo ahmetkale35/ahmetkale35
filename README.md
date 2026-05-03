@@ -50,14 +50,6 @@
 
 ---
 
-### 📌 Öne Çıkan Projeler
-
-| Proje | Açıklama | Teknoloji |
-|-------|----------|-----------|
-| [EvArkadasimV2](https://github.com/ahmetkale35/EvArkadasimV2) | Ev arkadaşı eşleştirme uygulaması — Tinder benzeri, konut odaklı | .NET, Clean Architecture, JWT, SignalR |
-
----
-
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
