@@ -1,4 +1,4 @@
-● <h1 align="center">Merhaba, ben Ahmet Kale 👋</h1>
+ <h1 align="center">Merhaba, ben Ahmet Kale 👋</h1>
 
   <p align="center">
     <em>Backend Developer · .NET & Clean Architecture</em><br/>                                                                                                                                                                                                                                                                                                          <em>🏢 Baylan — Akıllı Su & Elektrik Sayaçları | Stajyer</em>
