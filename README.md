@@ -1,29 +1,30 @@
-<h1 align="center">Merhaba, ben Ahmet Kale 👋</h1>
+<h1 align="center">Hi, I'm Ahmet Kale 👋</h1>
 
 <p align="center">
-  <em>Backend Developer · .NET & Clean Architecture</em><br/>
-  <em>🏢 Baylan — Akıllı Su & Elektrik Sayaçları | Stajyer</em>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=Backend+Developer;.NET+%7C+Clean+Architecture;IoT+Enthusiast;Spring+Boot+%7C+Java" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  🏢 Interning at <strong>Baylan</strong> — Smart Water & Electricity Meters<br/>
+  🌱 Expanding my skills in <strong>IoT</strong><br/>
+  💡 Passionate about <strong>Backend Development</strong> & <strong>Clean Architecture</strong><br/>
+  🚀 Currently building <strong>EvArkadasimV2</strong> — a roommate matching platform<br/>
+  📫 ahmetkale1248.ak@gmail.com
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🏆 Trophies
 
-🏢 Interning at **Baylan** — Smart Water & Electricity Meters<br/>
-🌱 Expanding my skills in **IoT**<br/>
-💡 Passionate about **Backend Development** & **Clean Architecture**<br/>
-🚀 Currently building **EvArkadasimV2** — a roommate matching platform with .NET & Clean Architecture<br/>
-📫 ahmetkale1248.ak@gmail.com
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmetkale35&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-### 🚀 Üzerinde Çalıştığım Proje
-
-**EvArkadasimV2** — Ev arkadaşı eşleştirme uygulaması. Tinder benzeri, konut odaklı. Clean Architecture + JWT auth + real-time chat.
-
----
-
-### 🛠️ Teknolojiler
+### 🛠️ Tech Stack
 
 **Backend**
 
@@ -33,18 +34,22 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Veritabanı & Cache**
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Database & Cache**
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Mesajlaşma & API**
+**Messaging & API**
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-**Araçlar & Altyapı**
+**Tools & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -52,11 +57,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-**Öğreniyorum**
+**Learning**
 
 ![IoT](https://img.shields.io/badge/IoT-00B4D8?style=for-the-badge&logo=internetofthings&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
@@ -64,7 +65,7 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmetkale35&theme=tokyonight" height="165" />
@@ -85,7 +86,7 @@
 
 ---
 
-### 📫 İletişim
+### 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmetkale1248.ak@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetkale35/)
