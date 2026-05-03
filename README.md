@@ -7,6 +7,16 @@
 
 ---
 
+### 👨‍💻 About Me
+
+🏢 Interning at **Baylan** — Smart Water & Electricity Meters<br/>
+🌱 Expanding my skills in **React & Frontend Development**<br/>
+💡 Passionate about **Backend Development** & **Clean Architecture**<br/>
+🚀 Currently building **EvArkadasimV2** — a roommate matching platform with .NET & Clean Architecture<br/>
+📫 ahmetkale1248.ak@gmail.com
+
+---
+
 ### 🚀 Üzerinde Çalıştığım Proje
 
 **EvArkadasimV2** — Ev arkadaşı eşleştirme uygulaması. Tinder benzeri, konut odaklı. Clean Architecture + JWT auth + real-time chat.
