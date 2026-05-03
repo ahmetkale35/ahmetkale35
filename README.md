@@ -1,16 +1,62 @@
-## Hi there 👋
+● <h1 align="center">Merhaba, ben Ahmet Kale 👋</h1>
 
-<!--
-**ahmetkale35/ahmetkale35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+    <em>Backend Developer · .NET & Clean Architecture</em><br/>                                                                                                                                                                                                                                                                                                          <em>🏢 Baylan — Akıllı Su & Elektrik Sayaçları | Stajyer</em>
+  </p>                                                                                                                                                                                                                                                                                                                                                               
+  ---
 
-Here are some ideas to get you started:
+  ### 🚀 Üzerinde Çalıştığım Proje
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **EvArkadasimV2** — Ev arkadaşı eşleştirme uygulaması. Tinder benzeri, konut odaklı. Clean Architecture + JWT auth + real-time chat.
+
+  ---
+
+  ### 🛠️ Teknolojiler
+
+  **Backend**
+
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+  **Veritabanı**
+
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+  **Araçlar & Altyapı**
+
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+  **Öğreniyorum**
+
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+  ---
+
+  ### 📊 GitHub İstatistikleri
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmetkale35&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkale35&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkale35&theme=tokyonight&hide_border=true" />
+  </p>
+
+  ---
+
+  ### 📫 İletişim
+
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmetkale1248.ak@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+  ---
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ahmetkale35&color=512BD4&style=flat-square" alt="profile views" />
+  </p>
