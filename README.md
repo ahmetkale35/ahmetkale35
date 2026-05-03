@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 🏢 Interning at **Baylan** — Smart Water & Electricity Meters<br/>
-🌱 Expanding my skills in **React & Frontend Development**<br/>
+🌱 Expanding my skills in **IoT**<br/>
 💡 Passionate about **Backend Development** & **Clean Architecture**<br/>
 🚀 Currently building **EvArkadasimV2** — a roommate matching platform with .NET & Clean Architecture<br/>
 📫 ahmetkale1248.ak@gmail.com
@@ -54,8 +54,8 @@
 
 **Öğreniyorum**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00B4D8?style=for-the-badge&logo=internetofthings&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ---
