@@ -54,6 +54,7 @@
 ![IoT](https://img.shields.io/badge/IoT-00B4D8?style=for-the-badge&logo=internetofthings&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![AI Otomasyon](https://img.shields.io/badge/AI%20Otomasyon-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
