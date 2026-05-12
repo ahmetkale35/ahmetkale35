@@ -55,6 +55,7 @@
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![AI Otomasyon](https://img.shields.io/badge/AI%20Otomasyon-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Mikroservis](https://img.shields.io/badge/Mikroservis-0052CC?style=for-the-badge&logo=microdotblog&logoColor=white)
 
 ---
 
